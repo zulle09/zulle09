@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riccardo Zuliani</h1>
-<h3 align="center">Machine Learning Engineer & Researcher</h3>
+<h3 align="center">Ex Machine Learning Engineer & Researcher (currently unemployed)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuliani99&label=Profile%20views&color=0e75b6&style=flat" alt="zuliani99" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 I'm available to discuss new ideas and if you need any help on any of my previous projects feel free to reach me!
 
-- ⚡ I'm looking forward to apply my knowledge in the **motorsports world**.
+- ⚡ I'm looking forward to apply my knowledge in the **real world problems**.
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
