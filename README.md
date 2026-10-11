@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riccardo Zuliani</h1>
 <h3 align="center">Former Machine Learning Engineer & Researcher, now Self-Employed IT Consultant</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zuliani99&label=Profile%20views&color=0e75b6&style=flat" alt="zuliani99" /> </p>
-
 - 🤩 I'm passionate about Artificial Intelligence in particular its application on the Computer Vision field.
 
 - 👨‍💻 All of my projects are available [here](https://zuliani99.github.io/portfolio/).
